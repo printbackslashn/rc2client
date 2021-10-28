@@ -1,4 +1,12 @@
 # Objectives for this project
 
-1. Work as an implant for rc2server
-2. Exfiltrate data over https
+Work as an implant for rc2server
+
+- [] Upload important files
+    - [] /etc/shadow
+    - [] /etc/passwd
+    - [] Keys
+    - [] exit
+    - [] /home
+    - [] /root
+- [] Exfiltrate data over https
