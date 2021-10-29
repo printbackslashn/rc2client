@@ -9,4 +9,4 @@ Work as an implant for rc2server
     - [] exit
     - [] /home
     - [] /root
-- [] NVMExfiltrate data over https https://crates.io/crates/fast-socks5 socks proxy to local http, more traffic obfuscation
+- [] Obfuscation, nothing yet as I want to implement more features
